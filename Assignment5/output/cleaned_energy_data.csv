@@ -1,0 +1,13 @@
+timestamp,kwh,building,month
+2024-01-01 00:00:00,120,Building_A,Jan
+2024-01-01 00:00:00,80,Building_B,Jan
+2024-01-01 01:00:00,115,Building_A,Jan
+2024-01-01 01:00:00,75,Building_B,Jan
+2024-01-01 02:00:00,110,Building_A,Jan
+2024-01-01 02:00:00,70,Building_B,Jan
+2024-01-02 00:00:00,130,Building_A,Jan
+2024-01-02 00:00:00,90,Building_B,Jan
+2024-01-02 01:00:00,125,Building_A,Jan
+2024-01-02 01:00:00,85,Building_B,Jan
+2024-01-03 00:00:00,140,Building_A,Jan
+2024-01-03 00:00:00,95,Building_B,Jan
